@@ -123,7 +123,7 @@ button{
 
 
 /* error img */
-/*
+
 .for-style.error {
   border-color: red;
   background-image: ('./images/icon-error.svg');
@@ -142,7 +142,6 @@ button{
 }
 
 .input-control .image {
-  display: none;
   position: absolute;
   top: 17%;
   bottom: 17%;
@@ -154,4 +153,3 @@ button{
   display: none;
 }
 
-*/
